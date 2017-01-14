@@ -102,6 +102,10 @@ endif
 #PRODUCT_PACKAGES += \
 #    bootanimation.zip
 
+# OMS MASQUERADE
+PRODUCT_PACKAGES += \
+   masquerade
+
 # Required CM packages
 PRODUCT_PACKAGES += \
     BluetoothExt \
