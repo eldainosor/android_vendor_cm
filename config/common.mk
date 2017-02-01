@@ -99,7 +99,7 @@ PRODUCT_PACKAGES += \
 
 # OMS MASQUERADE
 PRODUCT_PACKAGES += \
-   masquerade
+    masquerade
 
 # Required CM packages
 PRODUCT_PACKAGES += \
@@ -125,12 +125,10 @@ PRODUCT_PACKAGES += \
 # Custom CM packages
 PRODUCT_PACKAGES += \
     AudioFX \
-    CMFileManager \
     CMSettingsProvider \
     CMUpdater \
     CMWallpapers \
     CyanogenSetupWizard \
-    Eleven \
     ExactCalculator \
     LiveLockScreenService \
     LockClock \
